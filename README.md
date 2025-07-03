@@ -13,7 +13,7 @@ This project is a web application for generating AI content, featuring a user-fr
 - **Responsive Design**: The layout is responsive and works on different screen sizes.
 - **Routing**: Uses React Router for page navigation.
 
-## 🚀 Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -39,7 +39,7 @@ Make sure you have Node.js and npm (or yarn/pnpm) installed on your machine.
     npm install
     ```
 
-## 📜 Available Scripts
+##  Available Scripts
 
 In the project directory, you can run:
 
@@ -60,7 +60,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 Serves the production build from the `dist` folder locally. This is a good way to check if the production build works correctly before deploying.
 
-## 📂 Folder Structure
+##  Folder Structure
 
 Here's the basic structure of the project:
 
@@ -80,7 +80,7 @@ Evaluation-Project/
 └── README.md
 ```
 
-## 🛠️ Built With
+## Built With
 
 - React - The web framework used.
 - Vite - Frontend tooling and development server.
