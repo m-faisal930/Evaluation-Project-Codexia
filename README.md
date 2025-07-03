@@ -4,7 +4,7 @@
 
 This project is a web application for generating AI content, featuring a user-friendly interface to select content types and categories. It is built with React and Vite, and styled with Tailwind CSS.
 
-## ✨ Features
+## Features
 
 - **Content Type Selection**: Simple interface to define the type of content.
 - **Categorized Content Generation**: Tabs for different content categories like Fun, Education, Sports, News, Investment, and Facts.
